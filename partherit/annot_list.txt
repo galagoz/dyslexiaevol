@@ -1,0 +1,14 @@
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/chimp_PFC_enhancers_hg19/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/chimp_PFC_promoters_hg19/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/E073_active_marks/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/E081_active_marks/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/HAR/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/HSE_12Fpcw_active_merged/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/HSE_12Opcw_active_merged/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/HSE_7pcw_active_merged/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/HSE_8_5pcw_active_merged/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/macaque_PFC_enhancers_hg19/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/macaque_PFC_promoters_hg19/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/NeanSNPs_3col/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/NeanDepleted/
+/data/clusterfs/lag/users/gokala/enigma-evol/partherit/amanda_annotations/Sweeps/
