@@ -13,7 +13,6 @@ load(f1000G)
 outputdir = "/data/clusterfs/lag/users/gokala/dyslexia-evol/ancreg_sumstat/"
 phenoname="Dyslexia"
 
-#what are clumped files here?
 output=data.frame(matrix(NA,ncol=41,nrow=1))
 colnames(output)[seq(1,40,2)] = paste0("clumpedcorestimate",seq(1,20))
 colnames(output)[seq(2,40,2)] = paste0("clumpedp",seq(1,20))
@@ -26,8 +25,10 @@ rownames(output) = phenoname
     cat('loading in',pheno,'pre-existing Rdata file...\n');
     load("/data/clusterfs/lag/users/gokala/dyslexia-evol/sumstatsRdata/dyslexia.filtered.2_formatted.Rdata")
     #GWAS = as.data.frame(mcols(MAranges));
+
     ##Merge 1kgp with GWAS
     merged = merge(table, mergedGR, by="SNP") ##x=kG, y=GWAS
+
     ##remove all NAs, keep only SNPs that have both measurements
     ind=which(!is.na(merged$BETA) & !is.na(merged$P1beta)) # added P1beta NA filtering as well, to filter out SNPs that don't have PC loading values in 1kG file.
     merged=merged[ind,]

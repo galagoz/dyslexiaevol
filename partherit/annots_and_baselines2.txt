@@ -1,0 +1,10 @@
+Annotation	Baseline
+macaque_PFC_enhancers_hg19	E073_active_marks
+macaque_PFC_promoters_hg19	E073_active_marks
+chimp_PFC_enhancers_hg19	E073_active_marks
+chimp_PFC_promoters_hg19	E073_active_marks
+fetal_hge.sorted.merged	E081_active_marks
+HAR_coordinate	baseline
+Peyregne_extended_sweeps	baseline
+filtered.neanDepRegions	baseline
+nean_SNPs	baseline
